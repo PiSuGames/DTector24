@@ -21,7 +21,7 @@ Este juego reproduce la mecánica original basada en pasos y batallas por turnos
 
 ⚠️ No disponible en iOS
 
-##📷 Capturas de pantalla
+## 📷 Capturas de pantalla
 
 ![image](https://github.com/user-attachments/assets/804d1842-a8de-4272-b2d3-99960a1f3280)![image](https://github.com/user-attachments/assets/0bfd84e7-ceca-4911-812c-8423b4e5d8cf)![image](https://github.com/user-attachments/assets/59391240-5663-4ac3-8c26-4770caaf608d)![image](https://github.com/user-attachments/assets/8f69d9c8-229b-4b12-94b2-48b539477e47)
 
