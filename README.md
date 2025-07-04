@@ -42,7 +42,7 @@ Asegúrate de permitir apps de orígenes desconocidos
 
 ¡Empieza tu aventura como un Legendario Guerreros Espiritual!
 
-##🛠️ Tecnología
+## 🛠️ Tecnología
 Unity
 
 C#
